@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td>Создание ЛР</td>
-            <td><mark>git init</td>
+            <td><code>git init</td>
             <td></td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@
         </tr>
         <tr>
             <td>Просмотр полной истории</td>
-            <td><input type="button" value="git log"></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -219,3 +219,14 @@
         </tr>
     </tbody>
 </table>
+
+<table width="100%"></table>
+
+|Действие|Комманда|Комментарий|
+|-|-|-|
+|<div style="width:33%">sdffffffffffffffffffgggggggggggggggg</div>|<div style="width:33%">dfgdfg fgd f </div>|<div style="width:33%">dfffffffffge reeeeeeeeeeeeeeeee rrrrrrrrrr gggggggggggggg grrrrrrrrrr</div>|
+
+
+
+
+
