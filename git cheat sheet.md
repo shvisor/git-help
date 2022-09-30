@@ -1,3 +1,15 @@
+<style>
+    table th:first-of-type {
+        width: 33%;
+    }
+    table th:nth-of-type(2) {
+        width: 33%;
+    }
+    table th:nth-of-type(3) {
+        width: 33%;
+    }
+</style>
+
 # Шпаргалка по теме "Git - система контроля версий"
 
 ### **Создание локального репозитория (ЛР)**
@@ -55,14 +67,3 @@
 |Слияние веток|`git merge <название ветки, которую сливаем>`|Например, _**new-branch**_|
 |Отправка ветки в УР|`git push`|Т.к. ветка уже существует, то не указываем _**-u origin**_ <название ветки>|
 
-<style>
-    table th:first-of-type {
-        width: 33%;
-    }
-    table th:nth-of-type(2) {
-        width: 33%;
-    }
-    table th:nth-of-type(3) {
-        width: 33%;
-    }
-</style>
