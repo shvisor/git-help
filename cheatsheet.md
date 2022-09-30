@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td>Создание ЛР</td>
-            <td><b>git init</td>
+            <td><mark>git init</td>
             <td></td>
         </tr>
         <tr>
